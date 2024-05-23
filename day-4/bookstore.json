@@ -1,0 +1,16 @@
+{
+    "book" : [
+        {
+            "title" : "Harry Potter",
+            "author" : "J.K. Rowling",
+            "price" : 29.99,
+            "available" : true
+        },
+        {
+            "title" : "The Hobbit",
+            "author" : "J.R.R. Tolkien",
+            "price" : 19.99,
+            "available" : false
+        }
+    ]
+}
